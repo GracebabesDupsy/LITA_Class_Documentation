@@ -39,5 +39,6 @@ WHERE CONDITION = TRUE
 
 ### Data Visualisation
 
+![Bar chart](https://github.com/user-attachments/assets/ed68207b-34df-426b-9c93-2fe1a1d05188)
 
 
