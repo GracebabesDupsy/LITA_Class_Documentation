@@ -2,6 +2,21 @@
 
 ### Project Title: My Data Analysis Journey
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualisation](#data-visualisation)
+
+[Tables](#tables)
+
+
 ### Project Overview
 ---
 I am Amusan Modupeola Bamidele, I am a passionate teacher with the Lagos State Government, I teach biology as a subject, but at point I I was asked to teach computer science since, they had enough biology and chemistry teachers, I had to take it up, this made me to work harder and sought for more knowledge in computer science. I never had any prior knowledge or background in computer science but my love for my learners and quest to be at my best and to ensure that learning  took place has been my motivation for pursuing Data Analysis and any relevant skills.
@@ -38,7 +53,22 @@ WHERE CONDITION = TRUE
 ```
 
 ### Data Visualisation
+---
 
 ![Bar chart](https://github.com/user-attachments/assets/ed68207b-34df-426b-9c93-2fe1a1d05188)
+
+💻
+
+😄
+
+### Tables
+---
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
+
+
+
+
 
 
